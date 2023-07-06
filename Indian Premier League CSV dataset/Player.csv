@@ -1,0 +1,524 @@
+Player_Id,Player_Name,DOB,Batting_Hand,Bowling_Skill,Country,Is_Umpire
+1,SC Ganguly,08-07-1972,Left_Hand,Right-arm medium,India,0
+2,BB McCullum,27-09-1981,Right_Hand,Right-arm medium,New Zealand,0
+3,RT Ponting,19-12-1974,Right_Hand,Right-arm medium,Australia,0
+4,DJ Hussey,15-07-1977,Right_Hand,Right-arm offbreak,Australia,0
+5,Mohammad Hafeez,17-10-1980,Right_Hand,Right-arm offbreak,Pakistan,0
+6,R Dravid,11-01-1973,Right_Hand,Right-arm offbreak,India,0
+7,W Jaffer,16-02-1978,Right_Hand,Right-arm offbreak,India,0
+8,V Kohli,05-11-1988,Right_Hand,Right-arm medium,India,0
+9,JH Kallis,16-10-1975,Right_Hand,Right-arm fast-medium,South Africa,0
+10,CL White,18-08-1983,Right_Hand,Legbreak googly,Australia,0
+11,MV Boucher,03-12-1976,Right_Hand,Right-arm medium,South Africa,0
+12,B Akhil,07-10-1977,Right_Hand,Right-arm medium-fast,India,0
+13,AA Noffke,30-04-1977,Right_Hand,Right-arm fast-medium,Australia,0
+14,P Kumar,02-10-1986,Right_Hand,Right-arm medium,India,0
+15,Z Khan,07-10-1978,Right_Hand,Left-arm fast-medium,India,0
+16,SB Joshi,06-06-1970,Left_Hand,Slow left-arm orthodox,India,0
+17,PA Patel,09-03-1985,Left_Hand,NULL,India,0
+18,ML Hayden,29-10-1971,Left_Hand,Right-arm medium,Australia,0
+19,MEK Hussey,27-05-1975,Left_Hand,Right-arm medium,Australia,0
+20,MS Dhoni,07-07-1981,Right_Hand,Right-arm medium,India,0
+21,SK Raina,27-11-1986,Left_Hand,Right-arm offbreak,India,0
+22,JDP Oram,28-07-1978,Left_Hand,Right-arm fast-medium,New Zealand,0
+23,S Badrinath,30-08-1980,Right_Hand,Right-arm offbreak,India,0
+24,K Goel,24-12-1986,Left_Hand,Right-arm offbreak,India,0
+25,JR Hopes,24-10-1978,Right_Hand,Right-arm medium,Australia,0
+26,KC Sangakkara,27-10-1977,Left_Hand,Right-arm offbreak,Sri Lanka,0
+27,Yuvraj Singh,12-12-1981,Left_Hand,Slow left-arm orthodox,India,0
+28,SM Katich,21-08-1975,Left_Hand,Slow left-arm chinaman,Australia,0
+29,IK Pathan,27-10-1984,Left_Hand,Left-arm medium-fast,India,0
+30,T Kohli,17-12-1988,Right_Hand,Right-arm medium,India,0
+31,YK Pathan,17-11-1982,Right_Hand,Right-arm offbreak,India,0
+32,SR Watson,17-06-1981,Right_Hand,Right-arm fast-medium,Australia,0
+33,M Kaif,01-12-1980,Right_Hand,Right-arm offbreak,India,0
+34,DS Lehmann,05-02-1970,Left_Hand,Slow left-arm orthodox,Australia,0
+35,RA Jadeja,06-12-1988,Left_Hand,Slow left-arm orthodox,India,0
+36,M Rawat,25-10-1985,Right_Hand,NULL,India,0
+37,D Salunkhe,12-11-1982,Right_Hand,Legbreak,India,0
+38,SK Warne,13-09-1969,Right_Hand,Legbreak googly,Australia,0
+39,SK Trivedi,04-09-1982,Right_Hand,Right-arm medium,India,0
+40,G Gambhir,14-10-1981,Left_Hand,Legbreak,India,0
+41,V Sehwag,20-10-1978,Right_Hand,Right-arm offbreak,India,0
+42,S Dhawan,05-12-1985,Left_Hand,Right-arm offbreak,India,0
+43,L Ronchi,23-04-1981,Right_Hand,NULL,Australia,0
+44,ST Jayasuriya,30-06-1969,Left_Hand,Slow left-arm orthodox,Sri Lanka,0
+45,DJ Thornely,01-10-1978,Right_Hand,Right-arm medium,Australia,0
+46,RV Uthappa,11-11-1985,Right_Hand,Right-arm medium,India,0
+47,PR Shah,03-11-1987,Right_Hand,NULL,India,0
+48,AM Nayar,08-10-1983,Left_Hand,Right-arm medium,India,0
+49,SM Pollock,16-07-1973,Right_Hand,Right-arm fast-medium,South Africa,0
+50,Harbhajan Singh,03-07-1980,Right_Hand,Right-arm offbreak,India,0
+51,S Chanderpaul,16-08-1974,Left_Hand,Legbreak,West Indies,0
+52,LRPL Taylor,08-03-1984,Right_Hand,Right-arm offbreak,New Zealand,0
+53,AC Gilchrist,14-11-1971,Left_Hand,Right-arm offbreak,Australia,0
+54,Y Venugopal Rao,26-02-1982,Right_Hand,Right-arm offbreak,India,0
+55,VVS Laxman,01-11-1974,Right_Hand,Right-arm offbreak,India,0
+56,A Symonds,09-06-1975,Right_Hand,Right-arm offbreak,Australia,0
+57,RG Sharma,30-04-1987,Right_Hand,Right-arm offbreak,India,0
+58,SB Styris,10-07-1975,Right_Hand,Right-arm medium,New Zealand,0
+59,SB Bangar,11-10-1972,Right_Hand,Right-arm medium-fast,India,0
+60,WPUJC Vaas,27-01-1974,Left_Hand,Left-arm fast-medium,Sri Lanka,0
+61,RP Singh,06-12-1985,Right_Hand,Left-arm fast-medium,India,0
+62,WP Saha,24-10-1984,Right_Hand,NULL,India,0
+63,LR Shukla,06-05-1981,Right_Hand,Right-arm medium,India,0
+64,DPMD Jayawardene,27-05-1977,Right_Hand,Right-arm medium,Sri Lanka,0
+65,S Sohal,10-11-1987,Right_Hand,Legbreak,India,0
+66,B Lee,08-11-1976,Right_Hand,Right-arm fast,Australia,0
+67,PP Chawla,24-12-1988,Left_Hand,Legbreak,India,0
+68,WA Mota,20-09-1981,Right_Hand,Right-arm medium,India,0
+69,Kamran Akmal,13-01-1982,Right_Hand,NULL,Pakistan,0
+70,Shahid Afridi,01-03-1980,Right_Hand,Legbreak googly,Pakistan,0
+71,DJ Bravo,07-10-1983,Right_Hand,Right-arm medium-fast,West Indies,0
+72,MA Khote,22-04-1980,Right_Hand,Right-arm medium,India,0
+73,A Nehra,29-04-1979,Right_Hand,Left-arm medium-fast,India,0
+74,GC Smith,01-02-1981,Left_Hand,Right-arm offbreak,South Africa,0
+75,Pankaj Singh,06-05-1985,Right_Hand,Right-arm medium-fast,India,0
+76,RR Sarwan,23-06-1980,Right_Hand,Legbreak,West Indies,0
+77,S Sreesanth,06-02-1983,Right_Hand,Right-arm fast-medium,India,0
+78,VRV Singh,17-09-1984,Right_Hand,Right-arm medium-fast,India,0
+79,SS Tiwary,30-12-1989,Left_Hand,NULL,India,0
+80,DS Kulkarni,10-12-1988,Right_Hand,Right-arm medium,India,0
+81,R Vinay Kumar,12-02-1984,Right_Hand,Right-arm medium,India,0
+82,AB Agarkar,04-12-1977,Right_Hand,Right-arm fast,India,0
+83,M Kartik,11-09-1976,Left_Hand,Slow left-arm orthodox,India,0
+84,I Sharma,02-09-1988,Right_Hand,Right-arm fast-medium,India,0
+85,AM Rahane,06-06-1988,Right_Hand,Right-arm medium,India,0
+86,Shoaib Malik,01-02-1982,Right_Hand,Right-arm offbreak,Pakistan,0
+87,MK Tiwary,14-11-1985,Right_Hand,Legbreak googly,India,0
+88,KD Karthik,01-06-1985,Right_Hand,NULL,India,0
+89,R Bhatia,22-10-1979,Right_Hand,Right-arm medium-fast,India,0
+90,MF Maharoof,07-09-1984,Right_Hand,Right-arm fast-medium,India,0
+91,VY Mahesh,21-12-1987,Right_Hand,Right-arm medium-fast,India,0
+92,TM Srivastava,07-11-1989,Left_Hand,Right-arm medium,India,0
+93,B Chipli,27-01-1983,Right_Hand,Right-arm medium,India,0
+94,DW Steyn,27-06-1983,Right_Hand,Right-arm fast,South Africa,0
+95,DB Das,22-09-1986,Right_Hand,Legbreak googly,India,0
+96,MK Pandey,10-09-1989,Right_Hand,Right-arm medium,India,0
+97,HH Gibbs,23-02-1974,Right_Hand,Right-arm bowler,South Africa,0
+98,DNT Zoysa,13-05-1978,Left_Hand,Left-arm fast-medium,Sri Lanka,0
+99,D Kalyankrishna,16-12-1983,Right_Hand,Right-arm medium-fast,India,0
+100,SE Marsh,09-07-1983,Left_Hand,Slow left-arm orthodox,Australia,0
+101,SA Asnodkar,29-03-1984,Right_Hand,Right-arm offbreak,India,0
+102,Sohail Tanvir,12-12-1984,Left_Hand,Left-arm medium-fast,Pakistan,0
+103,Salman Butt,07-10-1984,Left_Hand,Right-arm offbreak,Pakistan,0
+104,BJ Hodge,29-12-1974,Right_Hand,Right-arm offbreak,Australia,0
+105,Umar Gul,14-04-1984,Right_Hand,Right-arm fast-medium,Pakistan,0
+106,AB Dinda,25-03-1984,Right_Hand,Right-arm medium-fast,India,0
+107,SP Fleming,01-04-1973,Left_Hand,NULL,New Zealand,0
+108,S Vidyut,03-12-1981,Left_Hand,Slow left-arm orthodox,India,0
+109,JA Morkel,10-06-1981,Left_Hand,Right-arm medium-fast,South Africa,0
+110,AB de Villiers,17-02-1984,Right_Hand,Right-arm medium,South Africa,0
+111,LPC Silva,14-12-1979,Right_Hand,Legbreak,Sri Lanka,0
+112,DB Ravi Teja,05-09-1987,Right_Hand,Legbreak googly,India,0
+113,Misbah-ul-Haq,28-05-1974,Right_Hand,Legbreak,Pakistan,0
+114,YV Takawale,05-11-1984,Right_Hand,NULL,India,0
+115,RR Raje,03-09-1986,Right_Hand,Right-arm fast-medium,India,0
+116,PJ Sangwan,05-11-1990,Right_Hand,Left-arm medium,India,0
+117,Mohammad Asif,20-12-1982,Left_Hand,Right-arm fast-medium,Pakistan,0
+118,GD McGrath,09-02-1970,Right_Hand,Right-arm fast-medium,Australia,0
+119,Joginder Sharma,23-10-1983,Right_Hand,Right-arm fast-medium,India,0
+120,MS Gony,04-01-1984,Right_Hand,Right-arm medium,India,0
+121,M Muralitharan,17-04-1972,Right_Hand,Right-arm offbreak,Sri Lanka,0
+122,M Ntini,06-07-1977,Right_Hand,Right-arm fast,South Africa,0
+123,DT Patil,06-12-1984,Right_Hand,NULL,India,0
+124,A Kumble,17-10-1970,Right_Hand,Legbreak googly,India,0
+125,S Anirudha,14-04-1987,Right_Hand,NULL,India,0
+126,MM Patel,12-07-1983,Right_Hand,Right-arm medium-fast,India,0
+127,CK Kapugedera,24-02-1987,Right_Hand,Right-arm medium,Sri Lanka,0
+128,A Chopra,19-09-1977,Right_Hand,Right-arm offbreak,India,0
+129,T Taibu,14-05-1983,Right_Hand,Right-arm medium,Zimbabwea,0
+130,J Arunkumar,18-01-1975,Right_Hand,Right-arm offbreak,India,0
+131,PP Ojha,05-09-1986,Left_Hand,Slow left-arm orthodox,India,0
+132,SP Goswami,18-05-1989,Left_Hand,NULL,India,0
+133,SR Tendulkar,24-04-1973,Right_Hand,Right-arm offbreak,India,0
+134,U Kaul,02-12-1987,Left_Hand,NULL,India,0
+135,TM Dilshan,14-10-1976,Right_Hand,Right-arm offbreak,Sri Lanka,0
+136,A Mishra,24-11-1982,Right_Hand,Legbreak,India,0
+137,AD Mascarenhas,30-10-1977,Right_Hand,Right-arm fast-medium,England,0
+138,NK Patel,26-03-1981,Left_Hand,NULL,India,0
+139,LA Pomersbach,28-09-1984,Left_Hand,Right-arm offbreak,Australia,0
+140,Iqbal Abdulla,02-12-1989,Left_Hand,Slow left-arm orthodox,India,0
+141,Younis Khan,29-11-1977,Right_Hand,Right-arm medium,Pakistan,0
+142,PM Sarvesh Kumar,26-04-1989,Right_Hand,Right-arm medium,India,0
+143,DP Vijaykumar,20-10-1986,Right_Hand,Right-arm medium,India,0
+144,Shoaib Akhtar,13-08-1975,Right_Hand,Right-arm fast,Pakistan,0
+145,Abdur Razzak,15-06-1982,Left_Hand,Slow left-arm orthodox,Bangladesh,0
+146,H Das,10-12-1986,Right_Hand,NULL,India,0
+147,DR Smith,12-04-1983,Right_Hand,Right-arm medium,West Indies,0
+148,SD Chitnis,06-05-1987,Right_Hand,Right-arm offbreak,India,0
+149,CRD Fernando,19-07-1979,Right_Hand,Right-arm fast-medium,Sri Lanka,0
+150,VS Yeligati,23-04-1985,Right_Hand,Right-arm offbreak,India,0
+151,L Balaji,27-09-1981,Right_Hand,Right-arm medium-fast,India,0
+152,A Mukund,06-01-1990,Left_Hand,Legbreak googly,India,0
+153,RR Powar,20-05-1978,Right_Hand,Right-arm offbreak,India,0
+154,JP Duminy,14-04-1984,Left_Hand,Right-arm offbreak,South Africa,0
+155,A Flintoff,06-12-1977,Right_Hand,Right-arm fast-medium,England,0
+156,T Thushara,01-03-1981,Left_Hand,Left-arm fast-medium,Sri Lanka,0
+157,JD Ryder,06-08-1984,Left_Hand,Right-arm medium,New Zealand,0
+158,KP Pietersen,27-06-1980,Right_Hand,Right-arm offbreak,South Africa,0
+159,T Henderson,01-08-1974,Right_Hand,Right-arm fast-medium,South Africa,0
+160,Kamran Khan,10-03-1991,Left_Hand,Left-arm medium-fast,India,0
+161,RS Bopara,04-05-1985,Right_Hand,Right-arm medium,England,0
+162,CH Gayle,21-09-1979,Left_Hand,Right-arm offbreak,West Indies,0
+163,MC Henriques,01-02-1987,Right_Hand,Right-arm fast-medium,Australia,0
+164,R Bishnoi,08-10-1987,Right_Hand,Right-arm medium-fast,India,0
+165,FH Edwards,06-02-1982,Right_Hand,Right-arm fast,West Indies,0
+166,KV Sharma,23-10-1987,Left_Hand,Legbreak googly,India,0
+167,PC Valthaty,07-12-1983,Right_Hand,Right-arm medium,India,0
+168,RJ Quiney,20-08-1982,Left_Hand,Right-arm medium,Australia,0
+169,AS Raut,03-03-1987,Right_Hand,Legbreak googly,India,0
+170,Yashpal Singh,27-11-1981,Right_Hand,Right-arm medium,India,0
+171,M Manhas,12-10-1979,Right_Hand,Right-arm offbreak,India,0
+172,AA Bilakhia,31-05-1986,Right_Hand,Right-arm medium,India,0
+173,AN Ghosh,19-10-1986,Right_Hand,Right-arm medium,India,0
+174,BAW Mendis,11-03-1985,Right_Hand,Right-arm offbreak,Sri Lanka,0
+175,DL Vettori,27-01-1979,Left_Hand,Slow left-arm orthodox,New Zealand,0
+176,MN van Wyk,20-03-1979,Right_Hand,Slow left-arm orthodox,South Africa,0
+177,RE van der Merwe,31-12-1984,Right_Hand,Slow left-arm orthodox,South Africa,0
+178,TL Suman,15-12-1983,Right_Hand,Right-arm offbreak,India,0
+179,Shoaib Ahmed,17-08-1990,Right_Hand,Right-arm fast-medium,Pakistan,0
+180,GR Napier,06-01-1980,Right_Hand,Right-arm medium,England,0
+181,KP Appanna,20-12-1988,Right_Hand,Slow left-arm orthodox,India,0
+182,LA Carseldine,17-11-1975,Left_Hand,Left-arm medium,Australia,0
+183,NV Ojha,20-07-1983,Right_Hand,NULL,India,0
+184,SM Harwood,01-03-1974,Right_Hand,Right-arm fast-medium,Australia,0
+185,M Vijay,01-04-1984,Right_Hand,Right-arm offbreak,India,0
+186,SB Jakati,27-11-1980,Left_Hand,Slow left-arm orthodox,India,0
+187,DA Warner,27-10-1986,Left_Hand,Legbreak,Australia,0
+188,RJ Harris,11-10-1979,Right_Hand,Right-arm fast,Australia,0
+189,D du Preez,08-11-1981,Right_Hand,Right-arm fast-medium,South Africa,0
+190,M Morkel,06-10-1984,Left_Hand,Right-arm fast,South Africa,0
+191,AD Mathews,02-06-1987,Right_Hand,Right-arm fast-medium,Sri Lanka,0
+192,J Botha,02-05-1982,Right_Hand,Right-arm offbreak,South Africa,0
+193,C Nanda,29-03-1979,Right_Hand,Legbreak,India,0
+194,SL Malinga,28-08-1983,Right_Hand,Right-arm fast,Sri Lanka,0
+195,Mashrafe Mortaza,05-10-1983,Right_Hand,Right-arm fast-medium,Bangladesh,0
+196,A Singh,21-06-1981,Right_Hand,Right-arm medium-fast,India,0
+197,GJ Bailey,07-09-1982,Right_Hand,Right-arm medium,Australia,0
+198,AB McDonald,05-06-1981,Right_Hand,Right-arm fast-medium,Australia,0
+199,Y Nagar,06-01-1990,Right_Hand,Right-arm offbreak,India,0
+200,SS Shaikh,18-01-1987,Right_Hand,Right-arm medium,India,0
+201,R Ashwin,17-09-1986,Right_Hand,Right-arm offbreak,India,0
+202,Mohammad Ashraful,07-07-1984,Right_Hand,Right-arm offbreak,Bangladesh,0
+203,CA Pujara,25-01-1988,Right_Hand,Legbreak,India,0
+204,OA Shah,22-10-1978,Right_Hand,Right-arm offbreak,England,0
+205,Anirudh Singh,02-08-1980,Left_Hand,Right-arm medium,India,0
+206,Jaskaran Singh,04-09-1989,Right_Hand,Right-arm medium,India,0
+207,AP Tare,07-11-1987,Right_Hand,NULL,India,0
+208,AT Rayudu,23-09-1985,Right_Hand,Right-arm offbreak,India,0
+209,R Sathish,14-01-1981,Right_Hand,Right-arm medium,India,0
+210,R McLaren,09-02-1983,Left_Hand,Right-arm medium-fast,South Africa,0
+211,AA Jhunjhunwala,01-12-1982,Right_Hand,Right-arm offbreak,India,0
+212,P Dogra,19-11-1984,Right_Hand,Legbreak,India,0
+213,A Uniyal,21-11-1981,Left_Hand,Left-arm medium,India,0
+214,MS Bisla,27-12-1984,Right_Hand,NULL,India,0
+215,YA Abdulla,17-01-1983,Left_Hand,Left-arm fast-medium,India,0
+216,EJG Morgan,10-09-1986,Left_Hand,Right-arm medium,England,0
+217,JM Kemp,02-10-1977,Right_Hand,Right-arm fast-medium,South Africa,0
+218,S Tyagi,17-09-1987,Right_Hand,Right-arm medium,India,0
+219,RS Gavaskar,20-02-1976,Left_Hand,Slow left-arm orthodox,India,0
+220,SE Bond,07-06-1975,Right_Hand,Right-arm fast,New Zealand,0
+221,KA Pollard,12-05-1987,Right_Hand,Right-arm medium-fast,West Indies,0
+222,S Ladda,10-07-1986,Right_Hand,Legbreak,India,0
+223,DP Nannes,16-05-1976,Right_Hand,Left-arm fast,Australia,0
+224,MJ Lumb,12-02-1980,Left_Hand,Right-arm medium,England,0
+225,DR Martyn,21-10-1971,Right_Hand,Right-arm medium,Australia,0
+226,S Narwal,16-04-1982,Left_Hand,Right-arm medium,India,0
+227,AB Barath,14-04-1990,Right_Hand,Right-arm offbreak,India,0
+228,Bipul Sharma,28-09-1983,Left_Hand,Slow left-arm orthodox,India,0
+229,FY Fazal,07-09-1985,Left_Hand,Right-arm medium,India,0
+230,AC Voges,04-10-1979,Right_Hand,Slow left-arm orthodox,Australia,0
+231,MD Mishra,09-02-1984,Right_Hand,Right-arm offbreak,India,0
+232,UT Yadav,25-10-1987,Right_Hand,Right-arm fast-medium,India,0
+233,J Theron,24-07-1985,Right_Hand,Right-arm medium-fast,South Africa,0
+234,SJ Srivastava,22-09-1981,Right_Hand,Left-arm fast-medium,India,0
+235,R Sharma,30-04-1987,Right_Hand,Right-arm offbreak,India,0
+236,Mandeep Singh,18-12-1991,Right_Hand,Right-arm medium,India,0
+237,KM Jadhav,26-03-1985,Right_Hand,Right-arm offbreak,India,0
+238,SW Tait,22-02-1983,Right_Hand,Right-arm fast,Australia,0
+239,KB Arun Karthik,15-02-1986,Right_Hand,Legbreak googly,India,0
+240,KAJ Roach,30-06-1988,Right_Hand,Right-arm fast,West Indies,0
+241,PD Collingwood,26-05-1976,Right_Hand,Right-arm medium,England,0
+242,CK Langeveldt,17-12-1974,Right_Hand,Right-arm fast-medium,England,0
+243,VS Malik,09-05-1983,Right_Hand,Right-arm medium,India,0
+244,A Mithun,25-10-1989,Right_Hand,Right-arm medium,India,0
+245,AP Dole,09-10-1987,Right_Hand,Right-arm medium-fast,India,0
+246,AN Ahmed,05-11-1988,Right_Hand,Right-arm medium-fast,India,0
+247,RS Sodhi,18-10-1980,Right_Hand,Right-arm medium,India,0
+248,DE Bollinger,24-07-1981,Left_Hand,Left-arm fast-medium,Australia,0
+249,S Sriram,21-02-1976,Left_Hand,Slow left-arm orthodox,India,0
+250,B Sumanth,10-05-1988,Right_Hand,Right-arm medium-fast,India,0
+251,C Madan,15-10-1982,Right_Hand,NULL,India,0
+252,AG Paunikar,18-04-1988,Right_Hand,NULL,India,0
+253,MR Marsh,20-10-1991,Right_Hand,Right-arm medium,Australia,0
+254,AJ Finch,17-11-1986,Right_Hand,Slow left-arm orthodox,Australia,0
+255,STR Binny,03-06-1984,Right_Hand,Right-arm medium,India,0
+256,Harmeet Singh,07-09-1992,Left_Hand,Slow left-arm orthodox,India,0
+257,IR Jaggi,27-01-1989,Right_Hand,Legbreak googly,India,0
+258,DT Christian,04-05-1983,Right_Hand,Right-arm fast-medium,Australia,0
+259,RV Gomez,16-10-1985,Right_Hand,Right-arm medium,India,0
+260,MA Agarwal,16-02-1991,Right_Hand,NULL,India,0
+261,AUK Pathan,17-06-1984,Right_Hand,Right-arm medium,India,0
+262,UBT Chand,26-03-1993,Right_Hand,Right-arm offbreak,India,0
+263,DJ Jacobs,04-11-1982,Right_Hand,Right-arm medium,South Africa,0
+264,Sunny Singh,18-12-1986,Right_Hand,Right-arm medium-fast,India,0
+265,NJ Rimmington,11-11-1982,Right_Hand,Right-arm fast-medium,Australia,0
+266,AL Menaria,29-10-1990,Left_Hand,Slow left-arm orthodox,India,0
+267,WD Parnell,30-07-1989,Left_Hand,Left-arm medium-fast,South Africa,0
+268,JJ van der Wath,10-01-1978,Right_Hand,Right-arm medium-fast,South Africa,0
+269,R Ninan,19-11-1985,Right_Hand,Right-arm offbreak,India,0
+270,S Aravind,08-04-1984,Left_Hand,Left-arm medium-fast,India,0
+271,MS Wade,26-12-1987,Left_Hand,Right-arm medium,Australia,0
+272,TD Paine,08-12-1984,Right_Hand,Right-arm medium,Australia,0
+273,SB Wagh,09-10-1988,Left_Hand,Left-arm medium-fast,India,0
+274,AC Thomas,09-02-1977,Right_Hand,Right-arm fast-medium,England,0
+275,JEC Franklin,07-11-1980,Left_Hand,Left-arm medium,New Zealand,0
+276,Shakib Al Hasan,24-03-1987,Left_Hand,Slow left-arm orthodox,Bangladesh,0
+277,DH Yagnik,22-06-1983,Left_Hand,NULL,India,0
+278,S Randiv,30-01-1985,Right_Hand,Right-arm offbreak,Sri Lanka,0
+279,BJ Haddin,23-10-1977,Right_Hand,NULL,Australia,0
+280,NLTC Perera,03-04-1989,Left_Hand,Right-arm medium-fast,Sri Lanka,0
+281,NL McCullum,01-09-1980,Right_Hand,Right-arm offbreak,New Zealand,0
+282,JE Taylor,22-06-1984,Right_Hand,Right-arm fast,New Zealand,0
+283,J Syed Mohammad,03-06-1983,Left_Hand,Slow left-arm orthodox,India,0
+284,RN ten Doeschate,30-06-1980,Right_Hand,Right-arm medium-fast,Netherlands,0
+285,TR Birt,09-12-1981,Left_Hand,Right-arm medium,Australia,0
+286,AG Murtaza,01-01-1990,Left_Hand,Slow left-arm orthodox,India,0
+287,Harpreet Singh,11-08-1991,Left_Hand,Right-arm medium,India,0
+288,M Klinger,04-07-1980,Right_Hand,NULL,Australia,0
+289,AC Blizzard,27-06-1984,Left_Hand,Left-arm medium,Australia,0
+290,I Malhotra,23-05-1984,Right_Hand,Right-arm medium-fast,India,0
+291,L Ablish,03-12-1982,Right_Hand,Right-arm medium-fast,India,0
+292,CA Ingram,03-07-1985,Left_Hand,Legbreak,South Africa,0
+293,S Nadeem,12-08-1989,Right_Hand,Slow left-arm orthodox,India,0
+294,P Parameswaran,30-05-1985,Right_Hand,Left-arm medium,India,0
+295,CJ Ferguson,21-11-1984,Right_Hand,Right-arm medium,Australia,0
+296,VR Aaron,29-10-1989,Right_Hand,Right-arm fast,India,0
+297,AA Chavan,28-10-1985,Left_Hand,Slow left-arm orthodox,India,0
+298,ND Doshi,06-10-1978,Right_Hand,Slow left-arm orthodox,India,0
+299,B Kumar,05-02-1990,Right_Hand,Right-arm medium,India,0
+300,Y Gnaneswara Rao,25-08-1984,Right_Hand,Right-arm medium,India,0
+301,S Rana,18-09-1984,Right_Hand,Right-arm medium-fast,India,0
+302,BA Bhatt,13-05-1990,Left_Hand,Slow left-arm orthodox,India,0
+303,F du Plessis,13-07-1984,Right_Hand,Legbreak,South Africa,0
+304,RE Levi,14-01-1988,Right_Hand,Right-arm medium,South Africa,0
+305,GJ Maxwell,14-10-1988,Right_Hand,Right-arm offbreak,Australia,0
+306,SPD Smith,02-06-1989,Right_Hand,Legbreak googly,India,0
+307,MN Samuels,05-02-1981,Right_Hand,Right-arm offbreak,West Indies,0
+308,SA Yadav,14-09-1990,Right_Hand,Right-arm offbreak,India,0
+309,KK Cooper,16-02-1989,Right_Hand,Right-arm medium,West Indies,0
+310,JP Faulkner,29-04-1990,Right_Hand,Left-arm fast-medium,Australia,0
+311,HV Patel,23-11-1990,Right_Hand,Right-arm medium,India,0
+312,DAJ Bracewell,28-09-1990,Right_Hand,Right-arm fast-medium,New Zealand,0
+313,DJ Harris,31-12-1979,Right_Hand,Right-arm medium,Australia,0
+314,Ankit Sharma,20-04-1991,Left_Hand,Slow left-arm orthodox,India,0
+315,SP Narine,26-05-1988,Left_Hand,Right-arm offbreak,West Indies,0
+316,GB Hogg,06-02-1971,Left_Hand,Slow left-arm chinaman,Australia,0
+317,RR Bhatkal,01-09-1985,Right_Hand,Right-arm medium,India,0
+318,CJ McKay,20-02-1983,Right_Hand,Right-arm fast-medium,Australia,0
+319,N Saini,28-10-1988,Right_Hand,NULL,India,0
+320,DA Miller,10-06-1989,Left_Hand,Right-arm offbreak,South Africa,0
+321,Azhar Mahmood,28-02-1975,Right_Hand,Right-arm fast-medium,Pakistan,0
+322,P Negi,06-01-1993,Left_Hand,Slow left-arm orthodox,India,0
+323,RJ Peterson,04-08-1979,Left_Hand,Slow left-arm orthodox,South Africa,0
+324,KMDN Kulasekara,22-07-1982,Right_Hand,Right-arm fast-medium,Sri Lanka,0
+325,A Ashish Reddy,24-02-1991,Right_Hand,Right-arm medium,India,0
+326,V Pratap Singh,03-05-1992,Right_Hand,Right-arm medium,India,0
+327,BB Samantray,14-12-1988,Right_Hand,NULL,India,0
+328,MJ Clarke,02-04-1981,Right_Hand,Slow left-arm orthodox,Australia,0
+329,Gurkeerat Singh,29-06-1990,Right_Hand,Right-arm offbreak,India,0
+330,AP Majumdar,30-04-1984,Right_Hand,Legbreak googly,India,0
+331,PA Reddy,11-02-1991,Right_Hand,Legbreak,India,0
+332,K Upadhyay,18-06-1986,Right_Hand,Right-arm medium,India,0
+333,P Awana,19-07-1986,Right_Hand,Right-arm medium,India,0
+334,AD Russell,29-04-1988,Right_Hand,Right-arm fast,West Indies,0
+335,A Chandila,05-12-1983,Right_Hand,Right-arm offbreak,India,0
+336,CA Lynn,10-04-1990,Right_Hand,Slow left-arm orthodox,Australia,0
+337,Sunny Gupta,27-09-1988,Right_Hand,Right-arm offbreak,India,0
+338,MC Juneja,12-09-1990,Right_Hand,Right-arm offbreak,India,0
+339,KK Nair,06-12-1991,Right_Hand,Right-arm offbreak,India,0
+340,GH Vihari,13-10-1993,Right_Hand,Right-arm offbreak,India,0
+341,MDKJ Perera,17-08-1990,Left_Hand,NULL,Sri Lanka,0
+342,R Shukla,28-08-1990,Right_Hand,Right-arm medium,India,0
+343,B Laughlin,03-10-1982,Right_Hand,Right-arm fast-medium,Australia,0
+344,AS Rajpoot,04-12-1993,Right_Hand,Right-arm medium,India,0
+345,M Vohra,18-07-1993,Right_Hand,Right-arm medium,India,0
+346,JD Unadkat,18-10-1991,Right_Hand,Left-arm medium,India,0
+347,Mohammed Shami,03-09-1990,Right_Hand,Right-arm fast-medium,India,0
+348,BMAJ Mendis,15-01-1983,Left_Hand,Legbreak,Sri Lanka,0
+349,R Rampaul,15-10-1984,Left_Hand,Right-arm fast-medium,West Indies,0
+350,CH Morris,30-04-1987,Right_Hand,Right-arm fast-medium,South Africa,0
+351,SV Samson,11-11-1994,Right_Hand,NULL,India,0
+352,SMSM Senanayake,09-02-1985,Right_Hand,Right-arm offbreak,Sri Lanka,0
+353,BJ Rohrer,26-03-1981,Left_Hand,NULL,Australia,0
+354,KL Rahul,18-04-1992,Right_Hand,NULL,India,0
+355,Q de Kock,17-12-1992,Left_Hand,NULL,South Africa,0
+356,R Dhawan,19-02-1990,Right_Hand,Right-arm medium-fast,India,0
+357,MG Johnson,02-11-1981,Left_Hand,Left-arm fast,Australia,0
+358,LJ Wright,07-03-1985,Right_Hand,Right-arm medium-fast,England,0
+359,IC Pandey,15-08-1989,Right_Hand,Right-arm medium,India,0
+360,CM Gautam,08-03-1986,Right_Hand,NULL,India,0
+361,X Thalaivan Sargunam,15-05-1985,Right_Hand,Right-arm offbreak,India,0
+362,DJG Sammy,20-12-1983,Right_Hand,Right-arm medium-fast,West Indies,0
+363,KW Richardson,12-02-1991,Right_Hand,Right-arm fast-medium,Australia,0
+364,MM Sharma,18-09-1988,Right_Hand,Right-arm medium,India,0
+365,UA Birla,17-11-1989,Right_Hand,Right-arm medium,India,0
+366,Parvez Rasool,13-02-1989,Right_Hand,Right-arm offbreak,India,0
+367,Sandeep Sharma,18-05-1993,Right_Hand,Right-arm medium,India,0
+368,S Kaul,19-05-1990,Right_Hand,Right-arm medium,India,0
+369,Sachin Baby,18-12-1988,Left_Hand,Right-arm offbreak,India,0
+370,PV Tambe,08-10-1971,Right_Hand,Legbreak,India,0
+371,NM Coulter-Nile,11-10-1987,Right_Hand,Right-arm fast,Australia,0
+372,CJ Anderson,13-12-1990,Left_Hand,Left-arm medium-fast,New Zealand,0
+373,NJ Maddinson,21-12-1991,Left_Hand,Slow left-arm orthodox,Australia,0
+374,AR Patel,20-01-1994,Left_Hand,Slow left-arm orthodox,India,0
+375,JJ Bumrah,06-12-1993,Right_Hand,Right-arm medium,India,0
+376,JDS Neesham,17-09-1990,Left_Hand,Right-arm medium,New Zealand,0
+377,TG Southee,11-12-1988,Right_Hand,Right-arm medium-fast,New Zealand,0
+378,MA Starc,30-01-1990,Left_Hand,Left-arm fast,Australia,0
+379,BR Dunk,11-03-1987,Left_Hand,NULL,Australia,0
+380,RR Rossouw,09-10-1989,Left_Hand,Right-arm offbreak,South Africa,0
+381,Shivam Sharma,09-09-1993,Right_Hand,Right-arm offbreak,India,0
+382,YS Chahal,23-07-1990,Right_Hand,Legbreak googly,India,0
+383,LMP Simmons,25-01-1985,Right_Hand,Right-arm medium-fast,West Indies,0
+384,VH Zol,23-11-1994,Left_Hand,Right-arm offbreak,India,0
+385,BCJ Cutting,30-01-1987,Right_Hand,Right-arm fast-medium,Australia,0
+386,Imran Tahir,27-03-1979,Right_Hand,Legbreak googly,India,0
+387,BE Hendricks,08-06-1990,Left_Hand,Left-arm fast-medium,South Africa,0
+388,S Gopal,04-09-1993,Right_Hand,Legbreak,India,0
+389,M de Lange,13-10-1990,Right_Hand,Right-arm fast,South Africa,0
+390,R Tewatia,20-05-1993,Left_Hand,Legbreak,India,0
+391,JO Holder,05-11-1991,Right_Hand,Right-arm medium-fast,West Indies,0
+392,Karanveer Singh,08-11-1987,Right_Hand,Legbreak googly,India,0
+393,SS Iyer,06-12-1994,Right_Hand,Legbreak googly,India,0
+394,DJ Hooda,19-04-1995,Right_Hand,Right-arm offbreak,India,0
+395,Anureet Singh,02-03-1988,Right_Hand,Right-arm medium,India,0
+396,KS Williamson,08-08-1990,Right_Hand,Right-arm offbreak,New Zealand,0
+397,SA Abbott,29-02-1992,Right_Hand,Right-arm fast-medium,New Zealand,0
+398,J Suchith,16-01-1994,Left_Hand,Slow left-arm orthodox,India,0
+399,RG More,02-02-1992,Right_Hand,Right-arm medium,India,0
+400,HH Pandya,11-10-1993,Right_Hand,Right-arm medium-fast,India,0
+401,D Wiese,18-05-1985,Right_Hand,Right-arm medium-fast,South Africa,0
+402,SN Khan,27-10-1997,Right_Hand,Legbreak,India,0
+403,MJ McClenaghan,11-06-1986,Left_Hand,Left-arm fast-medium,New Zealand,0
+404,DJ Muthuswami,09-03-1981,Right_Hand,Right-arm medium,India,0
+405,PJ Cummins,08-05-1993,Right_Hand,Right-arm fast,Australia,0
+406,SN Thakur,16-10-1991,Right_Hand,Right-arm medium,India,0
+407,JC Buttler,08-09-1990,Right_Hand,NULL,England,0
+408,CR Brathwaite,18-07-1988,Right_Hand,Right-arm fast-medium,West Indies,0
+409,MP Stoinis,16-08-1989,Right_Hand,Right-arm medium,Australia,0
+410,Ishan Kishan,18-07-1998,Left_Hand,NULL,India,0
+411,C Munro,11-03-1987,Left_Hand,Right-arm medium-fast,New Zealand,0
+412,P Sahu,21-08-1985,Right_Hand,Legbreak googly,India,0
+413,KH Pandya,24-03-1991,Left_Hand,Slow left-arm orthodox,India,0
+414,AD Nath,10-05-1993,Right_Hand,Right-arm medium-fast,India,0
+415,MJ Guptill,30-09-1986,Right_Hand,Right-arm offbreak,New Zealand,0
+416,KJ Abbott,18-06-1987,Right_Hand,Right-arm fast-medium,South Africa,0
+417,TM Head,29-12-1993,Left_Hand,Right-arm offbreak,Australia,0
+418,M Ashwin,08-09-1990,Right_Hand,Legbreak googly,India,0
+419,NS Naik,09-11-1994,Right_Hand,NULL,India,0
+420,RR Pant,04-10-1997,Left_Hand,NULL,India,0
+421,SW Billings,15-06-1991,Right_Hand,NULL,England,0
+422,KC Cariappa,13-04-1994,Right_Hand,Legbreak,India,0
+423,PSP Handscomb,26-04-1991,Right_Hand,NULL,Australia,0
+424,Swapnil Singh,22-01-1991,Right_Hand,Slow left-arm orthodox,India,0
+425,J Yadav,22-01-1990,Right_Hand,Right-arm offbreak,India,0
+426,UT Khawaja,18-12-1986,Left_Hand,Right-arm medium,Australia,0
+427,HM Amla,31-03-1983,Right_Hand,Right-arm offbreak,South Africa,0
+428,F Behardien,09-10-1983,Right_Hand,Right-arm fast-medium,South Africa,0
+429,BB Sran,10-12-1992,Left_Hand,Left-arm medium,India,0
+430,A Zampa,31-03-1992,Right_Hand,Legbreak googly,Australia,0
+431,N Rana,27-12-1993,Left_Hand,Right-arm offbreak,India,0
+432,S Kaushik,07-09-1995,Right_Hand,Slow left-arm chinaman,India,0
+433,ER Dwivedi,22-07-1988,Right_Hand,NULL,India,0
+434,CJ Jordan,04-10-1988,Right_Hand,Right-arm fast-medium,England,0
+435,P Amarnath,01-06-1982,Right_Hand,Right-arm medium,India,0
+436,B Geeves,13-06-1982,Right_Hand,Right-arm fast-medium,Australia,0
+437,Gagandeep Singh,03-10-1981,Right_Hand,Right-arm medium-fast,India,0
+438,A Nel,15-07-1977,Right_Hand,Right-arm fast-medium,South Africa,0
+439,AM Salvi,20-10-1981,Right_Hand,Right-arm medium,India,0
+440,RR Bose,27-02-1979,Right_Hand,Right-arm fast-medium,India,0
+441,SS Sarkar,15-12-1984,Right_Hand,Right-arm medium,India,0
+442,RA Shaikh,12-06-1985,Left_Hand,Left-arm medium,India,0
+443,C Ganapathy,10-06-1981,Right_Hand,Right-arm medium,India,0
+444,MB Parmar,12-04-1988,Right_Hand,Right-arm offbreak,India,0
+445,AA Kazi,29-09-1989,Left_Hand,Slow left-arm orthodox,India,0
+446,Anand Rajan,17-04-1987,Right_Hand,Right-arm medium,India,0
+447,P Prasanth,22-05-1985,Left_Hand,Slow left-arm orthodox,India,0
+448,SS Mundhe,27-10-1988,Right_Hand,Right-arm medium,India,0
+449,RW Price,12-06-1976,Right_Hand,Slow left-arm orthodox,Zimbabwea,0
+450,TP Sudhindra,24-04-1984,Left_Hand,Right-arm fast,India,0
+451,BW Hilfenhaus,15-03-1983,Right_Hand,Right-arm fast-medium,Australia,0
+452,S Badree,09-03-1981,Right_Hand,Legbreak,West Indies,0
+453,P Suyal,15-10-1989,Right_Hand,Left-arm medium,India,0
+454,MG Neser,29-03-1990,Right_Hand,Right-arm medium,Australia,0
+455,V Shankar,26-01-1991,Right_Hand,Right-arm medium,India,0
+456,K Santokie,20-12-1984,Left_Hand,Left-arm medium,West Indies,0
+457,JW Hastings,04-11-1985,Right_Hand,Right-arm fast-medium,Australia,0
+458,TA Boult,22-07-1989,Right_Hand,Left-arm fast-medium,New Zealand,0
+459,GS Sandhu,14-06-1993,Left_Hand,Right-arm fast-medium,Australia,0
+460,Mustafizur Rahman,06-09-1995,Left_Hand,Left-arm fast-medium,Bangladesh,0
+461,AF Milne,13-04-1992,Right_Hand,Right-arm fast,New Zealand,0
+462,Kuldeep Yadav,14-12-1994,Left_Hand,Slow left-arm chinaman,India,0
+463,T Shamsi,18-02-1990,Right_Hand,Slow left-arm chinaman,South Africa,0
+464,SM Boland,11-04-1989,Right_Hand,Right-arm fast-medium,Australia,0
+465,DL Chahar,07-08-1992,Right_Hand,Right-arm medium,India,0
+466,P Dharmani,27-09-1974,Right_Hand,NULL,India,0
+467,RV Pawar,06-09-1979,Left_Hand,Slow left-arm orthodox,India,0
+468,KH Devdhar,14-12-1989,Right_Hand,NULL,India,0
+469,T Mishra,22-12-1986,Right_Hand,Right-arm fast-medium,India,0
+470,Asad Rauf,NULL,NULL,NULL,Pakistan,1
+471,MR Benson,NULL,NULL,NULL,England,1
+472,Aleem Dar,NULL,NULL,NULL,Pakistan,1
+473,SJ Davis,NULL,NULL,NULL,England,1
+474,BF Bowden,NULL,NULL,NULL,New Zealand,1
+475,IL Howell,NULL,NULL,NULL,South Africa,1
+476,DJ Harper,NULL,NULL,NULL,Australia,1
+477,RE Koertzen,NULL,NULL,NULL,South Africa,1
+478,BR Doctrove,NULL,NULL,NULL,West Indies,1
+479,AV Jayaprakash,NULL,NULL,NULL,India,1
+480,BG Jerling,NULL,NULL,NULL,South Africa,1
+481,M Erasmus,NULL,NULL,NULL,South Africa,1
+482,HDPK Dharmasena,NULL,NULL,NULL,Sri Lanka,1
+483,S Asnani,NULL,NULL,NULL,India,1
+484,GAV Baxter,NULL,NULL,NULL,New Zealand,1
+485,SS Hazare,NULL,NULL,NULL,India,1
+486,K Hariharan,NULL,NULL,NULL,India,1
+487,SL Shastri,NULL,NULL,NULL,India,1
+488,SK Tarapore,NULL,NULL,NULL,India,1
+489,S Ravi,NULL,NULL,NULL,India,1
+490,SJA Taufel,NULL,NULL,NULL,Australia,1
+491,S Das,NULL,NULL,NULL,India,1
+492,AM Saheba,NULL,NULL,NULL,India,1
+493,PR Reiffel,NULL,NULL,NULL,Australia,1
+494,JD Cloete,NULL,NULL,NULL,South Africa,1
+495,AK Chaudhary,NULL,NULL,NULL,India,1
+496,VA Kulkarni,NULL,NULL,NULL,India,1
+497,BNJ Oxenford,NULL,NULL,NULL,Australia,1
+498,CK Nandan,NULL,NULL,NULL,India,1
+499,C Shamshuddin,NULL,NULL,NULL,India,1
+500,NJ Llong,NULL,NULL,NULL,England,1
+501,RK Illingworth,NULL,NULL,NULL,England,1
+502,RM Deshpande,NULL,NULL,NULL,India,1
+503,K Srinath,NULL,NULL,NULL,India,1
+504,SD Fry,NULL,NULL,NULL,Australia,1
+505,CB Gaffaney,NULL,NULL,NULL,New Zealand,1
+506,PG Pathak,NULL,NULL,NULL,India,1
+507,Nitin Menon,NULL,NULL,NULL,India,1
+508,K Bharatan,NULL,NULL,NULL,India,1
+509,AY Dandekar,NULL,NULL,NULL,India,1
+510,KN Ananthapadmanabhan,NULL,NULL,NULL,India,1
+511,A Nand Kishore,NULL,NULL,NULL,India,1
+512,GA Pratapkumar,NULL,NULL,NULL,India,1
+513,RB Tiffin,NULL,NULL,NULL,Zimbabwea,1
+514,I Shivram,NULL,NULL,NULL,India,1
+515,SD Ranade,NULL,NULL,NULL,India,1
+516,TH Wijewardene,NULL,NULL,NULL,Sri Lanka,1
+517,AL Hill,NULL,NULL,NULL,New Zealand,1
+518,RJ Tucker,NULL,NULL,NULL,Australia,1
+519,Subroto Das,NULL,NULL,NULL,India,1
+520,K Srinivasan,NULL,NULL,NULL,India,1
+521,VK Sharma,NULL,NULL,NULL,India,1
+523,AV Wankhade,14-03-1992,Right_Hand,NULL,India,0
+524,B Aparajith,08-07-1994,Right_Hand,Right-arm offbreak,India,0
